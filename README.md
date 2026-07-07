@@ -43,7 +43,7 @@ Hi, I'm **Salsabel Osama**
 ---
 
 ## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/salsabel-osama-28160b283)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/salsabel-osama-)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salsabelosama12@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8E44AD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Salsabel-Osama/my-portfolio)
 
