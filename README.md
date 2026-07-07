@@ -36,7 +36,7 @@ Hi, I'm **Salsabel Osama**
 ---
 
 ## 🏆 Competitive Programming
-[![Codeforces](https://img.shields.io/badge/Codeforces-0078D7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rowan86)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-0078D7?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/salsabel_Osama)  
 [![ICPC](https://img.shields.io/badge/ICPC-F7DF1E?style=for-the-badge&logo=icpc&logoColor=black)](https://icpc.global/)
 
 
